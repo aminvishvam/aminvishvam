@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
 
-- 🌱 I’m currently learning by my own :).
+- 🌱 I’m currently learning by my own :)
 
 - 👨‍💻 All of my projects are available at [https://aminvishvam.github.io/](https://aminvishvam.github.io/)
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vishvamamin55@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/aminvishvam/aminvishvam.github.io/blob/master/Resume.pdf](https://github.com/aminvishvam/aminvishvam.github.io/blob/master/Resume.pdf) 
+- 📄 Know about my experiences here(https://github.com/aminvishvam/aminvishvam.github.io/blob/master/Resume.pdf) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

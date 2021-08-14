@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **vishvamamin55@gmail.com**
 
-- 📄 Know about my experiences here(https://github.com/aminvishvam/aminvishvam.github.io/blob/master/Resume.pdf) 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vishvamamin55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishvamamin55" height="30" width="40" /></a>

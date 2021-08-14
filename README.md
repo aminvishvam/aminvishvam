@@ -1,16 +1,17 @@
-### Hi there 👋
-
-### Hi there 👋, I am Vishvam
-#### Front End Developer
-
-I'm am passionate Information Technology Engineer with Bachelor’s of Engineering from Gujarat Technological University. Also, as a Canadian education I have AEC diploma in Information technology programmer analyst from LaSalle College, Montreal.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🌱 I’m currently learning by my own. 
+<h1 align="center">Hi 👋, I'm Vishvam</h1>
+<h3 align="center">A passionate frontend developer from Canada</h3>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aminvishvam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishvam-amin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/vishvam.amin.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vishvam.amin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vishvamamin55)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aminvishvam.github.io/)  
+- 🌱 I’m currently learning by my own.  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vishvamamin55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishvamamin55" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishvam-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishvam-amin" height="30" width="40" /></a>
+<a href="https://fb.com/vishvam.amin.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishvam.amin.7" height="30" width="40" /></a>
+<a href="https://instagram.com/vishvam.amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishvam.amin" height="30" width="40" /></a>
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>

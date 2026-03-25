@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning Data Science<br>🎯 Goals: Not working for life<br>🎲 Fun fact: Gonna make adobe acrobat open source :)</p>
+<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning Data Science<br>🎯 Goals: Not working for life</p>
 
 ###
 
